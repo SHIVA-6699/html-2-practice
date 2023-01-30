@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+ <style>
+    aside
+    {
+        margin-right: 36%;
+        padding-left: 4%;
+        background-color: brown;
+        height: 35%;
+        width: 24%;
+        font-style: italic;
+        text-align: left;
+
+        
+    }
+    body
+    {
+        background-color: rebeccapurple;
+        text-align: center;
+    }
+   
+    
+    
+
+ </style>
+<head>
+    <link rel='stylesheet' href="/temp.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body style="background-image:url('download.jpg');"">
+    <h1> this is first heading tag</h1>
+    <details >  
+    <summary> this is address</summary>    <address> ksdfjklks
+        asdfkkjs<br>
+        skdkfjkasdjf
+        <br>
+
+        lkskjdffksd
+        <br>
+
+        kjsdkjsd
+    </address></details>
+    <data> this is data tag</data>
+
+    <aside><p>this is a base application and it will work on only html with css </p></aside>
+    <code>
+        #include <stdio.h><br>
+            main()
+            <br>
+
+            {<br>
+                printf("%d",a);<Br>
+                
+                
+            }<Br>
+
+    </code>
+    <cite> this is address purpose5</cite>
+    <video  width=300 height=300 controls>
+        <source src="/video.mp4" type="video/mp4">
+    </video>
+
+    <BR>
+        <BR>
+
+
+  <BR>
+    <a href="/INDEX.HTML" > file</a>
+    <br>
+    <br>
+    
+    <a href="/INDEX.HTML"><img src="/download.jpg" </a>
+
+    <input id="box1" type="text" /> + <input id="box2" type="text" /> = <input id="box3" type="text" /> <input type="button" value="Add" onclick="add()" />
+</body>
+
+</html>
